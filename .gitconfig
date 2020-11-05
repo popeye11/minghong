@@ -1,0 +1,6 @@
+setdefaultlanguage('en_US')
+atomsSetConfig offline True
+atomsInstall("C:\Users\zhang\Downloads\CPGE_1.6.3_6.0.bin.zip")
+atomsInstall("C:\Users\zhang\Downloads\iodelay_0.4.7.bin.zip")
+atomsInstall("C:\Users\zhang\Downloads\conselica_0.6.6.zip")
+atomsInstall("C:\Users\zhang\Downloads\SIMM_0.6.2_61-a-bin.zip")
